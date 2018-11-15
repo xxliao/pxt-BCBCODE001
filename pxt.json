@@ -1,6 +1,6 @@
 {
     "name": "pxt-bcbcode001",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Extension for BCB-CODE001",
     "license": "MIT",
     "dependencies": {
