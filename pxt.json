@@ -1,10 +1,11 @@
 {
     "name": "pxt-bcbcode001",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.1.1",
+    "description": "Extension for BCB-CODE001",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9"
     },
     "files": [
         "README.md",
@@ -13,5 +14,6 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+    "public": false,
+    "installedVersion": "workspace:7ba60fed-6742-483a-e9d9-37345b57ea8a"
 }
