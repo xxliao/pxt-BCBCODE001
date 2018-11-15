@@ -5,3 +5,6 @@ basic.showLeds(`
     # . . . #
     . # # # .
     `);
+
+namespace BCB {
+}
